@@ -1,0 +1,9 @@
+theme!cat
+achievement!0;1;2;3;
+p1Pic!1
+p2Pic!1
+music!Music2
+hasMusic!true
+difficulty!3
+score!-95
+address!C:\Users\Administrator
